@@ -32,12 +32,12 @@ html, body {
   }
   
   .nav:hover {
-    color: rgb(0, 47, 255);
+    color: rgb(255, 0, 55);
   }
   
   a {
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
   }
   
   #button1 {
